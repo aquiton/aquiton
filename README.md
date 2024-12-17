@@ -57,8 +57,6 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=reactnative" height="30" alt="reactnative logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=swift" height="30" alt="swift logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
