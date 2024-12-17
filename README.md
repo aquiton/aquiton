@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aquiton&label=Profile%20views&color=0e75b6&style=flat" alt="aquiton" /> </p>
 
-- 📫 How to reach me **aquiton22@gmail.com**
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aquiton&show_icons=true&locale=en&layout=compact" alt="aquiton" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,6 +12,7 @@
 - 🌱 I’m currently learning **Flask, AWS**
 - 👯 I’m looking to collaborate on **Front End Projects**
 - 🤝 I’m working at [ComplyAi](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A19090951&keywords=complyai&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=f2e0cce0-3582-400b-8426-d98d14a2a37e&sid=PD0&spellCorrectionEnabled=true)
+- 📫 How to reach me **aquiton22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
