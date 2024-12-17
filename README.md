@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aquiton&label=Profile%20views&color=0e75b6&style=flat" alt="aquiton" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aquiton&show_icons=true&locale=en&layout=compact" alt="aquiton" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aquiton&show_icons=true&theme=radical" alt="aquiton" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" alt="aquiton" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
