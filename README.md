@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Alex Quiton</h1>
+<h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aquiton&label=Profile%20views&color=0e75b6&style=flat" alt="aquiton" /> </p>
 
-- 🔭 I’m currently working on **React Native App**
-
-- 🌱 I’m currently learning **Flask, AWS**
-
-- 👯 I’m looking to collaborate on **Front End Projects**
-
-- 🤝 I’m working at [ComplyAi](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A19090951&keywords=complyai&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=f2e0cce0-3582-400b-8426-d98d14a2a37e&sid=PD0&spellCorrectionEnabled=true)
+- 🔭 I’m currently working on **React Native App** - 🌱 I’m currently learning **Flask, AWS** - 👯 I’m looking to collaborate on **Front End Projects** - 🤝 I’m working at [ComplyAi](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A19090951&keywords=complyai&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=f2e0cce0-3582-400b-8426-d98d14a2a37e&sid=PD0&spellCorrectionEnabled=true)
 
 - 📫 How to reach me **aquiton22@gmail.com**
 
