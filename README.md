@@ -5,7 +5,8 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aquiton&show_icons=true&theme=radical" alt="aquiton" /></p> -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquiton&layout=compact&theme=nord" alt="aquiton" /></p>
-<picture>
+
+<!--<picture>
   <source
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=aquiton&theme=nord&hide_border=true&days=7"
     media="(prefers-color-scheme: dark)"
@@ -15,7 +16,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aquiton&days=7" />
-</picture>
+</picture>-->
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
