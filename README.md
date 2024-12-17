@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aquiton&label=Profile%20views&color=0e75b6&style=flat" alt="aquiton" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aquiton" alt="aquiton" /></a> </p>
-
 - 🔭 I’m currently working on **React Native App**
 
 - 🌱 I’m currently learning **Flask, AWS**
