@@ -68,8 +68,8 @@
 <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
 </div>
 
-- 🔭 I’m currently working on **React Native App**
-- 🌱 I’m currently learning **Next.Js**
+- 🔭 I’m currently working on **React App**
+- 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on **Front End Web Dev Projects and Mobile Projects**
 - 🤝 I’m working at [ComplyAi](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A19090951&keywords=complyai&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=f2e0cce0-3582-400b-8426-d98d14a2a37e&sid=PD0&spellCorrectionEnabled=true)
 - 📫 How to reach me **aquiton22@gmail.com**
