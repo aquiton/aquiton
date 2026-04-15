@@ -74,8 +74,8 @@
 - 🤝 I’m working at [ComplyAi](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A19090951&keywords=complyai&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=f2e0cce0-3582-400b-8426-d98d14a2a37e&sid=PD0&spellCorrectionEnabled=true)
 - 📫 How to reach me **aquiton22@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
+<h3 align="center">Connect with me:</h3>
+<div align="center">
   <a href="https://linkedin.com/in/alexquiton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexquiton" height="30" width="40" /></a>
   <a href="https://discord.gg/qu4060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qu4060" height="30" width="40" /></a>
 </div>
